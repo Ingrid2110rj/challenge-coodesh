@@ -7,11 +7,11 @@
     
 Esta funcionalidade permite que o usuário acesse a tela de login para que possam se cadastrar e, assim, fazerem uso das funcionalidades presentes no sistema.
 
-Para o fluxo de cadastro de novo usuário é necessário que seja simples, direto e eficaz para a usabilidade do sistema. Esses dados são importantes para a comunicação entre serviço e o candidato, para um pssível contato do especialista em talentos, estas informações serão o primeiro canal de contato com o candidato. 
+Para o fluxo de cadastro de novo usuário é necessário que seja simples, direto e eficaz para a usabilidade do sistema. Esses dados são importantes para a comunicação entre serviço e o candidato, para um possível contato do especialista em talentos, estas informações serão o primeiro canal de contato com o candidato. 
 
   - Para este serviço, é necessário o armazenamento interno de tais informações: 
 
-    - Nome do usário, para identificação no sistema e acesso as vagas. 
+    - Nome do usuário, para identificação no sistema e acesso as vagas. 
     - E-mail e Senha conforme sua preferência, de acordo com a disponibilidade e regras do sistema.
      - Celular, meio de contato necessário para comunicação com o candidato.
    Ou se preferir, o usuário poderá realizar cadastro através da contas  redes sociais (github, linkedin e google)
@@ -41,11 +41,8 @@ Para o fluxo de cadastro de novo usuário é necessário que seja simples, diret
 **:triangular_flag_on_post:    Fluxo de Busca de Vagas**
   
     
-Esta funcionalidade permite que o usuário acesse a tela de login para que possam se cadastrar e, assim, fazerem uso das funcionalidades presentes no sistema.
 
-Para o fluxo de cadastro de novo usuário é necessário que seja simples, direto e eficaz para a usabilidade do sistema. Esses dados são importantes para a comunicação entre serviço e cliente, pois caso aconteça alguma adversidade, estas informações serão o primeiro canal de contato ao cliente para resoluções de problemas. 
-
-  - Esta Funcionalida permite que o usuário cadastrado busque vagas por: 
+  - Esta Funcionalidade permite que o usuário cadastrado busque vagas por: 
 
     - Localização
     - Carreira.
