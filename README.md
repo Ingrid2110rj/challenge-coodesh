@@ -46,14 +46,14 @@
 No terminal, clone o projeto:
 
 ```
-git clone <https://github.com/Ingrid2110rj/testing-coodesh.git>
+git clone <https://github.com/Ingrid2110rj/challenge-coodesh.git>
 
 ```
 
 Acesse a pasta do projeto no terminal/cmd:
 
 ```
-cd testing-coodesh
+cd challenge-coodesh
 
 ```
 
