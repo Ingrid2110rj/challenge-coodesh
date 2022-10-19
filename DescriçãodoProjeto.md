@@ -29,7 +29,7 @@ Para o fluxo de cadastro de novo usuário é necessário que seja simples, diret
     - Quais carreiras está buscando.
     - Indique suas habilidades.
     - O tempo experiência na área tech.
-    - WhatsAp, meio de contato necessário para comunicação com o candidato.
+    - Whatsapp, meio de contato necessário para comunicação com o candidato.
     - Informe sua cidade
      - Questionário de Identificação 
      - Preferências de vagas
