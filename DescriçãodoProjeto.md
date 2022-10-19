@@ -24,7 +24,7 @@ Para o fluxo de cadastro de novo usuário é necessário que seja simples, diret
     
  Ao criar sua conta o usuário será direcionado ao sistema para o preenchimento do perfil. 
 
-  - Esta Funcionalida permite que o usuário informe:
+  - Esta Funcionalidade permite que o usuário informe:
 
     - Quais carreiras está buscando.
     - Indique suas habilidades.
