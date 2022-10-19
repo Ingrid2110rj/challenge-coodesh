@@ -1,4 +1,4 @@
-<h1>QA Cypress Challenge for Coodesh</h1>
+<h1>Q.A. Challenge Coodesh</h1>
 
 ![Logo](https://github.com/Ingrid2110rj/challenge-coodesh/blob/main/logo.jfif)
 
@@ -76,7 +76,7 @@ npx cypess open
 
 - [Javascript](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
 
-## Documentações
+## Documentações :books:
 
 Para documentação de palavras-chave individuais, consulte o seguinte:
 
