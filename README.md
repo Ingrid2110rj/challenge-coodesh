@@ -57,7 +57,7 @@ cd challenge-coodesh
 
 ```
 
-Instale as dependecias:
+Instale as dependências:
 
 ```
 npm install
