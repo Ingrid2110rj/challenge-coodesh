@@ -8,7 +8,7 @@
 
 ### Tópicos
 
-:small_blue_diamond: [Descrição do projeto](https://github.com/Ingrid2110rj/testing-coodesh/blob/main/Descri%C3%A7%C3%A3odoProjeto.md)
+:small_blue_diamond: [Descrição do projeto](https://github.com/Ingrid2110rj/challenge-coodesh/blob/main/Descri%C3%A7%C3%A3odoProjeto.md)
 
 
 
