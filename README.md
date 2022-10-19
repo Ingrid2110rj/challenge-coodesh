@@ -1,6 +1,6 @@
 <h1>QA Cypress Challenge for Coodesh</h1>
 
-![Logo](https://github.com/Ingrid2110rj/testing-coodesh/blob/main/logo.jfif)
+![Logo](https://github.com/Ingrid2110rj/challenge-coodesh/blob/main/logo.jfif)
 
 
 > Status do Projeto: :heavy_check_mark: (Concluído)
