@@ -90,6 +90,9 @@ Para documentação de palavras-chave individuais, consulte o seguinte:
 | [<img src="https://avatars.githubusercontent.com/u/90401515?v=4" width=115><br><sub>Ingrid Santos</sub>](https://github.com/Ingrid2110rj)
 | :---: |
 
+## Apresentação:
+
+> https://www.loom.com/embed/7a2436b3c2f54f2fb9518fb82d240190
 
 
 Copyright :copyright: 2022 - QA Cypress Challenge for Coodesh
