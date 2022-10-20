@@ -74,7 +74,7 @@ npx cypess open
 
 ## Linguagens utilizadas :books:
 
-- [Javascript](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
+- [Javascript](https://www.javascript.com/)
 
 ## Documentações :books:
 
